@@ -45,7 +45,7 @@ db.on( 'disconnected', disconnectedEvent.bind( db, logger ) )
 [mit-license]: https://raw.githubusercontent.com/mongoose-events/disconnected/master/license.txt
 [npm-image]: https://img.shields.io/npm/v/mongoose-events-disconnected.svg
 [npm-url]: https://www.npmjs.com/package/mongoose-events-disconnected
-[nsp-image]: https://nodesecurity.io/orgs/mongoose-events/projects/82286fe3-1e4b-4cfb-ada3-1aa2d255c3f4/badge
-[nsp-url]: https://nodesecurity.io/orgs/mongoose-events/projects/82286fe3-1e4b-4cfb-ada3-1aa2d255c3f4
+[nsp-image]: https://nodesecurity.io/orgs/mongoose-events/projects/b6fb28be-a278-42e4-a7ac-94c22fce6789/badge
+[nsp-url]: https://nodesecurity.io/orgs/mongoose-events/projects/b6fb28be-a278-42e4-a7ac-94c22fce6789
 [travis-image]: https://travis-ci.org/mongoose-events/disconnected.svg?branch=master
 [travis-url]: https://travis-ci.org/mongoose-events/disconnected
